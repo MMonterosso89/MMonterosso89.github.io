@@ -1,0 +1,16 @@
+---
+title: "Great Sources"
+author: "Matthew Monterosso"
+date: "7/31/2019"
+output: html_document
+---
+
+
+## Great Sources
+You owe it to yourself to read these
+
+1. [The R Inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
+2. [A Mathematical Theory of Communication](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+3. blerp
+
+
